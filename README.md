@@ -4,8 +4,9 @@
 • Contribuições de conteúdos open-source destinados à comunidade de FiveM.
 
 ## Discord
-• https://discord.gg/M5Tpx5b9A2 - Lil Community
 • Henrx#0001 - Personal Account
+
+• https://discord.gg/M5Tpx5b9A2 - Lil Community
 
 ## Termos de uso
 
